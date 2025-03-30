@@ -1,6 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/j48a217e)
-
-
 **Roomy**
 
 ## Quick start
@@ -26,7 +23,7 @@
 Project Overview -
 
 Problem :
-Young immigrants coming to the US for studies face a unique challenge: finding compatible roommates. Existing platforms focus on renting entire apartments, making it difficult to connect with potential roommates
+Young students coming to the US for studies face a unique challenge: finding compatible roommates. Existing platforms focus on renting entire apartments, making it difficult to connect with potential roommates
 
 Roomy’s solution : 
 Effortless Roommate Matching. Forget endless scrolling and awkward meetups. Roomy connects you with compatible roommates who already have a place, making finding a perfect living situation a breeze......can you add this to read me ?
