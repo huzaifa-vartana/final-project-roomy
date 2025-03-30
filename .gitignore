@@ -1,0 +1,14 @@
+node_modules
+.env
+.DS_Store
+# ignore DS_Store files in all directories
+**/.DS_Store
+/service/logs/*
+.next
+# Auto Generated PWA files
+**/public/sw.js
+**/public/workbox-*.js
+**/public/worker-*.js
+**/public/sw.js.map
+**/public/workbox-*.js.map
+**/public/worker-*.js.map
